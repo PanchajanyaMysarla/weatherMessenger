@@ -4,4 +4,6 @@ A Simple python3.6 program using twilio , openweathermap api and numpy,pandas,ma
 Instructions:
 1. install requests,numpy,pandas,twilio,matplotlib etc on your machine.
 
-2. Run program.py
+2. Get API Keys for twilio, openweathermap and update it in program.py
+
+3. Run program.py
